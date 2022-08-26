@@ -1,0 +1,171 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Britney Spears Tribute" />
+    <title id="title">Britney Spears</title>
+    <link rel="stylesheet" href="styles.css">
+    <link
+  </head>
+
+<main id="main">
+<body>
+  <header>
+    <section id="title">
+      <h1>Britney Spears</h1>
+      <h3 id="tribute-info">Timeline</h2>
+      <div id="img-div">
+        <img src="https://img1.goodfon.com/original/1920x1080/3/7f/britni-spirs-britney-spears-2781.jpg" id="image"/ alt="Britney Spears Black and White Photo">
+        <div id="img-caption">
+        <p for="image" id="image-label"><em>
+        "I think I'm more grounded, you know, and I know what I want out of life and I'm, you know, my morals are really, you know, strong and I have major beliefs about certain things and I think that has helped me, you know, from being, you know, coming from a really small town."
+    <br><b>- Britney Spears</b></em></p>
+      </div>
+    </section>
+  </header>
+  
+  <main id="main">
+    <div id="main-content">
+      <article id="time-line">
+        <h2>Here's a time line of Britney's life:</h2>
+        <ul id="time-line-list" class="text-content">
+          <li><time datetime="1981">1981</time> - Britney Jean Spears is born Dec. 2 in McComb, Miss.</li>
+          <li><time datetime="1986">1986</time> - Makes her singing debut at her kindergarten graduation. She performs the song "What Child Is This?"</li>
+          <li><time datetime="1990">1990</time> - First auditions for "The Mickey Mouse Club" at age 8 but is rejected for being too young.</li>
+          <li><time datetime="1991">1991</time> - Becomes an understudy for the lead role of Tina Denmarck in the off-Broadway production of "Ruthless!"</li>
+          <li><time datetime="1992">1992</time> - Makes her first appearance on "Star Search" at age 10. She wins the first round of competition but loses the second.</li>
+          <li><time datetime="1993">1993</time> - Auditions for "The Mickey Mouse Club" again and is accepted at age 11. Co-stars include Justin Timberlake, Keri Russell and Christina Aguilera.</li>
+          <li><time datetime="1994">1994</time> - "The Mickey Mouse Club" is canceled. Spears moves back home to Kentwood, La.</li>
+          <li><time datetime="1998">1998</time> - Is signed to Jive Records and records her debut album, "Hit Me Baby One More Time," in Sweden.</li>
+          <li><time datetime="1999">1999</time> - Goes out on her first real concert tour, where she opens for 'N Sync.</li>
+          <li><time datetime="Jan. 12, 1999">Jan. 12, 1999</time> - Lead single, "... Baby One More Time," debuts at No. 1 on the Billboard 200.</li>
+          <li><time datetime="April 1999">April 1999</time> - Poses for her first major magazine, Rolling Stone.</li>
+          <li><time datetime="1999">1999</time> - Appears on ABC's sitcom "Sabrina, the Teenage Witch," playing herself.</li>
+          <li><time datetime="May 13, 2000">May 13, 2000</time> - Hosts and performs on "Saturday Night Live."</li>
+          <li><time datetime="May 16, 2000">May 16, 2000</time> - Releases her sophomore album, "Oops! ... I Did it Again." The album sells more than 20 million copies worldwide.</li>
+          <li><time datetime="Sept. 7, 2000">Sept. 7, 2000</time> - Confesses to dating 'N Sync frontman Timberlake.</li>
+          <li><time datetime="Feb. 2001">Feb. 2001 </time> - Performs "Slave 4 U" at the MTV Video Music Awards with a large albino python.</li>
+          <li><time datetime="Nov. 6, 2001">Nov. 6, 2001</time> - Releases third album, "Britney."</li>
+          <li><time datetime="Feb. 2, 2002">Feb. 2, 2002</time> - Hosts and performs on "Saturday Night Live" for a second time.</li>
+          <li><time datetime="Feb. 11, 2002">Feb. 11, 2002</time> - Releases her film "Crossroads."</li>
+          <li><time datetime="July 1, 2002">July 1, 2002</time> - Ends four-year relationship with Timberlake.</li>
+          <li><time datetime="Aug. 29, 2003">Aug. 29, 2003</time> - Kisses Madonna during their performance of "Like a Virgin" at the MTV Video Awards.</li>
+          <li><time datetime="Nov. 17, 2003">Nov. 17, 2003</time> - Receives a star on the Hollywood Walk of Fame.</li>
+          <li><time datetime="Nov. 18, 2003">Nov. 18, 2003</time> - Releases fourth album, "In the Zone."</li>
+          <li><time datetime="Jan. 3, 2004">Jan. 3, 2004</time> - Marries childhood friend Jason Allen Alexander at The Little White Wedding Chapel in Las Vegas. The marriage is annulled 55 hours later.</li>
+          <li><time datetime="March 26, 2004">March 26, 2004</time> - Brings her "Onyx Hotel Tour" to Jacksonville Veterans Memorial Arena.</li>
+          <li><time datetime="September 2004">September 2004</time> - Releases her first fragrance, "Curious."</li>
+          <li><time datetime="Sept. 18, 2004">Sept. 18, 2004</time> - Marries dancer Kevin Federline.</li>
+        </ul> 
+      </article>
+      <hr/>
+      <article id="tribute" class="text-content">
+        <p><em>“When you go through heartbreak, you just do the things that get you by. Eventually, you realize it’s about making the most of life.”</em></p>
+        <p><b>- Britney Spears</b></p>
+      </article>
+      <hr/>
+    </div>
+  
+  <footer>
+    <div id="footer-content">
+      <secion>If you have time, you should read more about this incredible human being on his <a href="https://britneyspears.com/" id="tribute-link" target="_blank">Artist's Page</a>.
+      </section>
+    </div>
+  </footer>
+</body>
+ </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#main {
+  /* variables */
+--content-background: white;
+  --contrast-background: #FFCFD2;
+  margin: 10px;
+  background-color: var(--content-background, #FFCFD2);
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: var(--contrast-background, #FFCFD2);
+  border-radius: 10px;
+}
+
+h1 {
+  color: #083D77;
+  margin-top: 10px;
+}
+h3{
+  color:#B24C63;
+}
+
+#title {
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  background-color: var(--content-background, #FFCFD2);
+}
+
+#main-content {
+  max-width: 600px;
+  margin: auto;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: var(--contrast-background, #FFCFD2);
+  border-radius: 10px;
+}
+
+#footer-content {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.text-content {
+  text-align: justify;
+}
+
+li {
+  margin-top: 10px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+time {
+  font-weight: bold;
+}
+
+#image-label {
+  text-align: center;
+  font-size: 15px;
+}
+
+#tribute-link:hover {
+  color: hsl(220, 88%, 60%);
+}
+
+#tribute-link {
+  color: hsl(220, 57%, 42%);
+}
+
+** end of undefined **
+
